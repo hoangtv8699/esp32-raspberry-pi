@@ -22,10 +22,11 @@ def thermometer():
         light = random.randint(1, 10)
         ec = random.randint(1, 10)
         ph = random.randint(1, 10)
+        waterTemp = random.randint(1, 10)
         try:
             # Sending the data to thingspeak
-            conn = urllib.request.urlopen(baseURL + '&field1=%s&field2=%s&field3=%s&field4=%s&field5=%s' % (temp, humidity, light, ec, ph))
-            print(temp, humidity, light, ec, ph)
+            conn = urllib.request.urlopen(baseURL + '&field1=%s&field2=%s&field3=%s&field4=%s&field5=%s&field6=%s' % (temp, humidity, light, ec, ph, waterTemp))
+            print(temp, humidity, light, ec, ph, waterTemp)
             # Closing the connection
             conn.close()
         except Exception as e:
