@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="36462df6-9460-4b73-9952-8952b8ae5b07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uploadtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/uploadtest.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,18 +35,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Python.uploadtest">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="uploadtest.py" />
@@ -55,9 +43,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
@@ -76,9 +64,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uploadtest.py" />
@@ -100,6 +88,18 @@
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -128,22 +128,34 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1832" height="296" key="GridCell.Tab.0.bottom" timestamp="1576574950506">
+    <state x="671" y="146" key="#test" timestamp="1576635301689">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1832" height="296" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576574950506" />
-    <state width="1832" height="296" key="GridCell.Tab.0.center" timestamp="1576574950506">
+    <state x="671" y="146" key="#test/65.24.1855.1056@65.24.1855.1056" timestamp="1576635301689" />
+    <state x="671" y="146" key="#uploadtest" timestamp="1576610815601">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1832" height="296" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576574950506" />
-    <state width="1832" height="296" key="GridCell.Tab.0.left" timestamp="1576574950505">
+    <state x="671" y="146" key="#uploadtest/65.24.1855.1056@65.24.1855.1056" timestamp="1576610815601" />
+    <state width="1831" height="291" key="GridCell.Tab.0.bottom" timestamp="1576731775404">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1832" height="296" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576574950505" />
-    <state width="1832" height="296" key="GridCell.Tab.0.right" timestamp="1576574950506">
+    <state width="1831" height="291" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1576731775404" />
+    <state width="1831" height="291" key="GridCell.Tab.0.bottom/65.36.1855.1044@65.36.1855.1044" timestamp="1576730731754" />
+    <state width="1831" height="291" key="GridCell.Tab.0.center" timestamp="1576731775403">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1832" height="296" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576574950506" />
+    <state width="1831" height="291" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1576731775403" />
+    <state width="1831" height="291" key="GridCell.Tab.0.center/65.36.1855.1044@65.36.1855.1044" timestamp="1576730731753" />
+    <state width="1831" height="291" key="GridCell.Tab.0.left" timestamp="1576731775403">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1831" height="291" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1576731775403" />
+    <state width="1831" height="291" key="GridCell.Tab.0.left/65.36.1855.1044@65.36.1855.1044" timestamp="1576730731753" />
+    <state width="1831" height="291" key="GridCell.Tab.0.right" timestamp="1576731775404">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1831" height="291" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576731775404" />
+    <state width="1831" height="291" key="GridCell.Tab.0.right/65.36.1855.1044@65.36.1855.1044" timestamp="1576730731754" />
     <state width="1832" height="365" key="GridCell.Tab.1.bottom" timestamp="1576574453165">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -160,5 +172,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1832" height="365" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1576574453165" />
+    <state x="653" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1576729767060">
+      <screen x="65" y="36" width="1855" height="1044" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1576634039825" />
+    <state x="653" y="375" key="com.intellij.ide.util.TipDialog/65.36.1855.1044@65.36.1855.1044" timestamp="1576729767060" />
   </component>
 </project>
