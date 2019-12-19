@@ -16,7 +16,7 @@ baseURL = 'https://api.thingspeak.com/update?api_key=%s' % key
 
 def readData():
     read_serial = ser.readline()
-    j = json.loads(read_serial)
+    j = json.loads(read_serial.decode("utf-8"))
     return j
 
 
