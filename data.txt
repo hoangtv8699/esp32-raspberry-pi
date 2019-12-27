@@ -1,0 +1,12 @@
+{"temp": "23.50", "humidity": "55.70", "waterTemp": "0.00", "light": "46", "ec": "91.08", "ph": "10.14"}
+{"humidity": "55.50", "light": "47", "ec": "91.12", "ph": "10.14", "temp": "23.50", "waterTemp": "0.00"}
+{"humidity": "55.50", "ph": "10.14", "ec": "91.12", "temp": "23.50", "waterTemp": "0.00", "light": "47"}
+{"ec": "91.25", "light": "46", "ph": "10.15", "waterTemp": "0.00", "humidity": "55.30", "temp": "23.70"}
+{"waterTemp": "0.00", "ph": "10.15", "ec": "91.25", "humidity": "55.30", "temp": "23.70", "light": "41"}
+{"waterTemp": "0.00", "temp": "23.70", "humidity": "55.30", "light": "41", "ph": "10.15", "ec": "91.25"}
+{"temp":23.70,"humidity":55.20,"light":41,"ec":91.25,"ph":10.15,"waterTemp":0.00}
+{"temp":23.70,"humidity":55.20,"light":41,"ec":91.25,"ph":10.15,"waterTemp":0.00}
+{"temp":23.70,"humidity":55.10,"light":18,"ec":91.25,"ph":10.15,"waterTemp":0.00}
+{"temp":23.80,"humidity":56.40,"light":140,"ec":91.25,"ph":10.15,"waterTemp":0.00}
+{"temp":24.80,"humidity":55.70,"light":140,"ec":91.25,"ph":10.15,"waterTemp":0.00}
+{"temp":25.50,"humidity":50.00,"light":40,"ec":91.18,"ph":10.14,"waterTemp":0.00}Fri Dec 27 09:28:32 2019
